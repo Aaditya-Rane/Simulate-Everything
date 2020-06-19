@@ -9,6 +9,6 @@ Enter Value Inside the box and click Insert. Program will simulate insertion ope
 #### 2. Search
 Enter Value inside the box and click Search. Program will simulate searching operation. If element exist/ not exit program will notifiy user accordingly.
 
-#### [Click here to try it now !](https://raneaaditya98.github.io/Simulate-Everything/)
+#### For Time Being only Insert and Search are working [Click here to try it now !](https://raneaaditya98.github.io/Simulate-Everything/)
 
 
